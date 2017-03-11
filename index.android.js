@@ -14,6 +14,9 @@ import TouchableComponent from './app/components/TouchableComponent/TouchableCom
 import ButtonComponent from './app/components/ButtonComponent/ButtonComponent.js';
 import StatusBarComponent from './app/components/StatusBarComponent/StatusBarComponent.js';
 import ToolbarAndroidComponent from './app/components/ToolbarAndroidComponent/ToolbarAndroidComponent.js';
+import IconComponent from './app/components/IconComponent/IconComponent.js';
+import ListViewComponent from './app/components/ListViewComponent/ListViewComponent.js';
+import FetchComponent from './app/components/FetchComponent/FetchComponent.js';
 
 
 export default class mymobileapp extends Component{
@@ -22,7 +25,7 @@ export default class mymobileapp extends Component{
       <View>
         <StatusBarComponent barColor='red'/>
         <ToolbarAndroidComponent/>
-        <ButtonComponent/>
+        <FetchComponent/>
       </View>
       );
   }
