@@ -11,13 +11,18 @@ import StyledComponent from './app/components/StyledComponent/StyledComponent.js
 import FlexComponent from './app/components/FlexComponent/FlexComponent.js';
 import FlexComponent2 from './app/components/FlexComponent2/FlexComponent2.js';
 import TouchableComponent from './app/components/TouchableComponent/TouchableComponent.js';
+import ButtonComponent from './app/components/ButtonComponent/ButtonComponent.js';
+import StatusBarComponent from './app/components/StatusBarComponent/StatusBarComponent.js';
+import ToolbarAndroidComponent from './app/components/ToolbarAndroidComponent/ToolbarAndroidComponent.js';
 
 
 export default class mymobileapp extends Component{
   render() {
     return (
       <View>
-        <TouchableComponent/>
+        <StatusBarComponent barColor='red'/>
+        <ToolbarAndroidComponent/>
+        <ButtonComponent/>
       </View>
       );
   }
