@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import {AppRegistry, Text, View, ToolbarAndroid, TouchableHighlight, StyleSheet} from 'react-native';
 
 import AsyncStorageComponent from '../AsyncStorageComponent/AsyncStorageComponent.js';
+import GeoLocationComponent from '../GeoLocationComponent/GeoLocationComponent.js';
+
 
 export default class SceneComponent1 extends Component{
 	constructor(props){
@@ -25,6 +27,7 @@ export default class SceneComponent1 extends Component{
 						<Text>Go To Scene 2</Text>
 					</TouchableHighlight>
 					<AsyncStorageComponent/>
+					<GeoLocationComponent/>
 			</View>
 			)
 	}
