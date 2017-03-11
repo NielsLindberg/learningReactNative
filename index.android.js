@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View} from 'react-native';
+import {AppRegistry, Text, View, Navigator} from 'react-native';
 
 import SimpleComponent1 from './app/components/SimpleComponent1/SimpleComponent1.js';
 import TextInputComponent from './app/components/TextInputComponent/TextInputComponent.js';
@@ -17,16 +17,27 @@ import ToolbarAndroidComponent from './app/components/ToolbarAndroidComponent/To
 import IconComponent from './app/components/IconComponent/IconComponent.js';
 import ListViewComponent from './app/components/ListViewComponent/ListViewComponent.js';
 import FetchComponent from './app/components/FetchComponent/FetchComponent.js';
+import SceneComponent1 from './app/components/SceneComponents/SceneComponent1.js';
+import SceneComponent2 from './app/components/SceneComponents/SceneComponent2.js';
 
 
 export default class mymobileapp extends Component{
+  renderScene(route, navigator) {
+    switch(route.id) {
+      case 'scene1':
+        return (<SceneComponent1 navigator={navigator} title="scene1" />)
+      case 'scene2':
+        return (<SceneComponent2 navigator={navigator} title="scene2" />)
+    }
+  }
+
   render() {
     return (
-      <View>
-        <StatusBarComponent barColor='red'/>
-        <ToolbarAndroidComponent/>
-        <FetchComponent/>
-      </View>
+        <Navigator
+          initialRoute={{id: 'scene1'}}
+          renderScene={this.renderScene}
+          configureScene={(route, routeStack) => Navigator.SceneConfigs.FadeAndroid}
+        />
       );
   }
 }
