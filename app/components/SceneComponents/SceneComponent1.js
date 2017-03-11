@@ -3,6 +3,7 @@ import {AppRegistry, Text, View, ToolbarAndroid, TouchableHighlight, StyleSheet}
 
 import AsyncStorageComponent from '../AsyncStorageComponent/AsyncStorageComponent.js';
 import GeoLocationComponent from '../GeoLocationComponent/GeoLocationComponent.js';
+import ClipboardComponent from '../ClipboardComponent/ClipboardComponent.js';
 
 
 export default class SceneComponent1 extends Component{
@@ -28,6 +29,7 @@ export default class SceneComponent1 extends Component{
 					</TouchableHighlight>
 					<AsyncStorageComponent/>
 					<GeoLocationComponent/>
+					<ClipboardComponent/>
 			</View>
 			)
 	}
