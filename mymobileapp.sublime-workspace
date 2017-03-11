@@ -1,0 +1,859 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"too",
+				"toggleBounce"
+			],
+			[
+				"spee",
+				"speedMultiplicator"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"header",
+				"pageHeaderHeight"
+			],
+			[
+				"bd",
+				"bd+\tborder: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"format",
+				"formattedDescription"
+			],
+			[
+				"formate",
+				"formattedDates"
+			],
+			[
+				"formatted",
+				"formattedTitle"
+			],
+			[
+				"formattedEm",
+				"formattedEmployer"
+			],
+			[
+				"formattedEmp",
+				"formattedEmployerTitle"
+			],
+			[
+				"card",
+				"card-container"
+			],
+			[
+				"bo",
+				"text-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.android.js",
+			"settings":
+			{
+				"buffer_size": 772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/BoilerComponent/BoilerComponent.js",
+			"settings":
+			{
+				"buffer_size": 362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "app/components/SimpleComponent1/TextInputComponent.js",
+			"file_size": 0,
+			"file_write_time": 131335703813944842,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/TextInputComponent/TextInputComponent.js",
+			"settings":
+			{
+				"buffer_size": 1014,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/SliderComponent/SliderComponent.js",
+			"settings":
+			{
+				"buffer_size": 963,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/PickerComponent/PickerComponent.js",
+			"settings":
+			{
+				"buffer_size": 868,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/ScrollViewComponent/ScrollViewComponent.js",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/SimpleComponent1/SimpleComponent1.js",
+			"settings":
+			{
+				"buffer_size": 724,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.ios.js",
+			"settings":
+			{
+				"buffer_size": 307,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "Package Control: Install",
+		"selected_items":
+		[
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remove Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"Autoprefix CSS",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"react-native log-android",
+			"install",
+			"Autoprefix CSS",
+			".jshintrc",
+			"view.run_command(\"jshint\")",
+			"$ bower install jquery",
+			"bower install jquery",
+			"npm install -g bower",
+			"bower install jquery",
+			"npm --version",
+			"install --save polymer",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Workspace/mymobileapp",
+		"/D/Workspace/mymobileapp/app",
+		"/D/Workspace/mymobileapp/app/components",
+		"/D/Workspace/mymobileapp/app/components/BoilerComponent",
+		"/D/Workspace/mymobileapp/app/components/PickerComponent",
+		"/D/Workspace/mymobileapp/app/components/ScrollViewComponent",
+		"/D/Workspace/mymobileapp/app/components/SimpleComponent1",
+		"/D/Workspace/mymobileapp/app/components/SliderComponent",
+		"/D/Workspace/mymobileapp/app/components/TextInputComponent"
+	],
+	"file_history":
+	[
+		"/D/Workspace/mymobileapp/android/app/components/SimpleComponent1/SimpleComponent1.js",
+		"/D/Workspace/mymobileapp/android/app/components/Component1",
+		"/D/Workspace/hello-world/src/index.js",
+		"/D/Workspace/hello-world/src/App.test.js",
+		"/D/Workspace/hello-world/src/Components/Component1.js",
+		"/D/Workspace/hello-world/src/App.js",
+		"/D/Workspace/hello-world/src/logo.svg",
+		"/D/Workspace/hello-world/hello-world.sublime-project",
+		"/D/Workspace/hello-world/package.json",
+		"/D/Workspace/reactZero/index.ios.js",
+		"/D/Workspace/reactZero/index.android.js",
+		"/D/Workspace/reactZero/__tests__/index.android.js",
+		"/C/Users/eight/AppData/Roaming/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/D/Workspace/reactZero/app/components/Component3/Component3.js",
+		"/D/Workspace/reactZero/android/app/build.gradle",
+		"/D/Workspace/reactZero/app/components/Component6/Component6.js",
+		"/D/Workspace/reactZero/app/components/Component5/Component5.js",
+		"/D/Workspace/reactZero/app/components/Component4/Component4.js",
+		"/D/Workspace/reactZero/android/settings.gradle",
+		"/D/Workspace/reactZero/app/components/Component1/Component1.js",
+		"/D/Workspace/reactZero/app/components/Component2/Component2.js",
+		"/D/Workspace/reactZero/android/app/src/main/java/com/reactzero/MainActivity.java",
+		"/D/Workspace/reactZero/android/app/src/main/java/com/reactzero/MainApplication.java",
+		"/D/Workspace/reactZero/android/gradle.properties",
+		"/D/Workspace/reactZero/android/android.jks",
+		"/D/Workspace/reactZero/android/app/src/main/AndroidManifest.xml",
+		"/D/Workspace/reactZero/.babelrc",
+		"/D/Workspace/reactZero/.eslintrc",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Workspace/ionicMap/src/pages/home/home.scss",
+		"/D/Workspace/ionicMap/src/index.html",
+		"/D/Workspace/ionicMap/src/pages/home/home.html",
+		"/D/Workspace/Udacity/mapApp/src/index.html",
+		"/D/Workspace/Udacity/mapApp/src/js/main.js",
+		"/D/Workspace/ionicMap/src/pages/home/home.ts",
+		"/D/Workspace/ionicMap/src/providers/connectivity-service.ts",
+		"/D/Workspace/ionicMap/src/pages/contact/contact.html",
+		"/D/Workspace/ionicMap/src/pages/about/about.html",
+		"/D/Workspace/ionicMap/src/pages/about/about.ts",
+		"/D/Workspace/ionicMap/src/app/app.module.ts",
+		"/D/Workspace/ionicMap/src/theme/variables.scss",
+		"/D/Workspace/Udacity/mapApp/src/js/models/mapEntries.js",
+		"/D/Workspace/ionicMap/src/pages/home/mapstuff.ts",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/Workspace/ionicMap/readme.md",
+		"/D/Workspace/ionicReddit/src/app/app.component.ts",
+		"/D/Workspace/ionicReddit/src/app/services/reddit.service.ts",
+		"/D/Workspace/ionicReddit/src/pages/about/about.html",
+		"/D/Workspace/ionicReddit/src/pages/settings/settings.html",
+		"/D/Workspace/ionicReddit/resources/icon.png",
+		"/D/Workspace/ionicReddit/src/pages/reddit/reddit.html",
+		"/D/Workspace/ionicReddit/src/pages/settings/settings.ts",
+		"/D/Workspace/ionicReddit/src/pages/settings/settings.scss",
+		"/D/Workspace/ionicReddit/src/pages/reddit/reddit.scss",
+		"/D/Workspace/ionicReddit/src/pages/tabs/tabs.html",
+		"/D/Workspace/ionicReddit/src/pages/tabs/tabs.ts",
+		"/D/Workspace/ionicReddit/src/app/app.module.ts",
+		"/D/Workspace/ionicReddit/src/pages/details/details.ts",
+		"/D/Workspace/ionicReddit/src/pages/details/details.html",
+		"/D/Workspace/ionicReddit/src/pages/reddit/reddit.ts",
+		"/D/Workspace/angularZero/src/app/app.component.css",
+		"/D/Workspace/angularZero/src/app/app.component.html",
+		"/D/Workspace/ionicZero/src/pages/tabs/tabs.html",
+		"/D/Workspace/ionicZero/src/app/app.component.ts",
+		"/D/Workspace/ionicZero/src/theme/variables.scss",
+		"/D/Workspace/ionicZero/src/app/app.html",
+		"/D/Workspace/ionicZero/src/app/app.module.ts",
+		"/D/Workspace/ionicZero/src/pages/test/test.html",
+		"/D/Workspace/ionicZero/src/pages/test/test.ts",
+		"/D/Workspace/ionicZero/src/pages/tabs/tabs.ts",
+		"/D/Workspace/ionicZero/src/pages/test/test.scss",
+		"/D/Workspace/ionicZero/src/manifest.json",
+		"/D/Workspace/CBS/BigSocialData/SentimentAnalysis/qliksenseLoadScript/dataLoad.txt",
+		"/D/Workspace/CBS/BigSocialData/SentimentAnalysis/readme.md",
+		"/D/Workspace/CBS/BigSocialData/SentimentAnalysis/qliksenseLoadScript/CalendarMacro.txt",
+		"/D/Workspace/CBS/BigSocialData/SentimentAnalysis/readme.txt",
+		"/D/Workspace/Udacity/P4/css/style.css",
+		"/D/Workspace/Udacity/P4/css/style.less",
+		"/D/Workspace/Udacity/P4/Gruntfile.js",
+		"/D/Workspace/Udacity/P5/frontend-nanodegree-arcade-game/js/engine.js",
+		"/D/Workspace/Udacity/P5/frontend-nanodegree-arcade-game/js/app.js",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Niels/Desktop/Printesa/index.html",
+		"/D/Workspace/createjs/index.html",
+		"/D/Workspace/createjs/js/first.js",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/workspace/createjs/index.html",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/amCombo.js",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/dataProvider.js",
+		"/D/Workspace/vue-firebase/src/App.vue",
+		"/D/Workspace/vue-firebase/src/components/Hello.vue",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/node_modules/numeral/numeral.js",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/wbFolder.wbl",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/amChart.js",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/README.md",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/library/numeral.js",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/node_modules/numeral/languages.js",
+		"/D/Workspace/CBS/BigSocialData/SentimentAnalysis/facebook_data.py",
+		"/D/Workspace/QlikSense/amcharts/QlikSense.amCharts/amCombo/properties.js",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/D/Workspace/friendlychat/web-start/firebase.json",
+		"/D/Workspace/friendlychat/web-start/database-rules.json",
+		"/D/Workspace/friendlychat/web-start/scripts/main.js",
+		"/D/Workspace/friendlychat/web-start/index.html",
+		"/D/Workspace/friendlychat/web-start/storage-rule.json",
+		"/D/Workspace/gkeep-vueifire/src/App.vue",
+		"/D/Workspace/gkeep-vueifire/src/components/notes/index.vue",
+		"/D/Workspace/gkeep-vueifire/src/main.js",
+		"/D/Workspace/vue-firebase/package.json",
+		"/D/Workspace/vue-firebase/src/firebase/firebase-connect.js",
+		"/D/Workspace/vue-firebase/src/main.js",
+		"/D/Workspace/vue-matdesign/node_modules/vue-material/src/components/mdSidenav/mdSidenav.vue",
+		"/D/Workspace/vue-matdesign/src/main.js",
+		"/D/Workspace/vue-matdesign/build/webpack.base.conf.js",
+		"/D/Workspace/vue-matdesign/src/components/Hello.vue",
+		"/D/Workspace/vue-matdesign/src/App.vue",
+		"/D/Workspace/vue-matdesign/index.html",
+		"/D/Workspace/vue-test/src/components/Hello.vue",
+		"/D/Workspace/vue-test/src/App.vue",
+		"/D/Workspace/vue-test/src/main.js",
+		"/D/Workspace/vue-test/.eslintignore",
+		"/D/Workspace/vue-test/index.html",
+		"/D/workspace/vue-matdesign/package.json",
+		"/D/Workspace/vue-test/src/components/Dragger.vue",
+		"/C/Users/Niels/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/Workspace/vue-test/package.json"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"D:\\Workspace\\ionicReddit\\src\\pages\\details",
+			"D:\\Workspace\\ionicReddit\\src\\pages\\details\\",
+			"D:\\Workspace\\ionicReddit\\src\\pages\\details\\settings.html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"location",
+			"mapEntryList",
+			"connection",
+			"settings",
+			"reddit",
+			"max",
+			"entrySpacing",
+			"dataProviderNew",
+			"ordinal",
+			"console",
+			"addMeasureData",
+			"displayMessage",
+			"setImageUrl",
+			"template",
+			"yelpview",
+			"content-button",
+			".content button",
+			".content-button",
+			"display",
+			"#pano",
+			"result-container",
+			"yelp",
+			"directionsDisplayList",
+			"populateinfowindow",
+			"itemLabelFilter",
+			"console",
+			"categoryColors",
+			"category",
+			"overflow",
+			"mapEntryList",
+			"food",
+			"service",
+			"<SimpleData name=\"NAME_2\"></SimpleData>",
+			"<name>",
+			"<Polygon>",
+			"NAME_2",
+			"embed",
+			"tilesHeight",
+			"tilesWidth",
+			"topOffset",
+			"numberOfEnemies",
+			"speedMultiplicator",
+			"tileswidth",
+			"tilesHeight",
+			"console",
+			"titlesWidth",
+			"titlesHeight",
+			"101",
+			"83",
+			"titlesHeight",
+			"505",
+			"83",
+			"background",
+			"link",
+			"center",
+			"callback",
+			"googlemap",
+			"coin",
+			"style",
+			">: ",
+			"> ",
+			"Theyare",
+			"  ",
+			"really",
+			"Family",
+			"<div class=\"article\">\n<h1>Addams Family</h1>\n<p>They really are a scream the Addams Family.</p>\n<a href=\"#\">Read more +</a>\n</div>\n",
+			"class",
+			"About",
+			"=\"#\">",
+			"Home",
+			"=\"#\">",
+			"Home",
+			"here",
+			"border",
+			"'",
+			"\"",
+			"'",
+			"\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"details",
+			"ul",
+			"li"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.android.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								706
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/components/BoilerComponent/BoilerComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/components/SimpleComponent1/TextInputComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/TextInputComponent/TextInputComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/components/SliderComponent/SliderComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/components/PickerComponent/PickerComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/components/ScrollViewComponent/ScrollViewComponent.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 173.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/components/SimpleComponent1/SimpleComponent1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.ios.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Monokai.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mymobileapp.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
