@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, StyleSheet, ToolbarAndroid, TouchableHighlight} from 'react-native';
+
 import CameraRollComponent from '../CameraRollComponent/CameraRollComponent.js';
+import ShareComponent from '../ShareComponent/ShareComponent.js';
 
 export default class SceneComponent2 extends Component{
 	constructor(props){
@@ -23,7 +25,7 @@ export default class SceneComponent2 extends Component{
 					<TouchableHighlight onPress={this.navScene1}>
 						<Text>Go To Scene 1</Text>
 					</TouchableHighlight>
-					<CameraRollComponent/>
+					<ShareComponent/>
 			</View>
 			)
 	}
